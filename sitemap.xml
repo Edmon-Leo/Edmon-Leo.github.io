@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/update/</loc>
+    <loc>http://eecutie.cc/update/</loc>
     <lastmod>2022-09-29T15:00:45+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://eecutie.cc/about/</loc>
     <lastmod>2022-09-29T14:57:38+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://eecutie.cc/categories/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://eecutie.cc/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://eecutie.cc/tags/</loc>
   </url>
 </urlset>
