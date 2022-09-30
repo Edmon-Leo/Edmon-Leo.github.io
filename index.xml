@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Leo Notes</title>
-    <link>http://eecutie.cc/</link>
+    <link>https://eecutie.cc/</link>
     <description>Recent content on Leo Notes</description>
     <image>
       <url>https://s2.loli.net/2022/09/28/xdpTDYqf4NBW3RC.png</url>
       <link>https://s2.loli.net/2022/09/28/xdpTDYqf4NBW3RC.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://eecutie.cc/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://eecutie.cc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Update Logs</title>
-      <link>http://eecutie.cc/update/</link>
+      <link>https://eecutie.cc/update/</link>
       <pubDate>Thu, 29 Sep 2022 15:00:45 +0800</pubDate>
       
-      <guid>http://eecutie.cc/update/</guid>
+      <guid>https://eecutie.cc/update/</guid>
       <description> All updates will be recorded here, sorted by timeline.
 2022.09.29 Start using Hugo and complete the configration in local machine. Publish &amp;ldquo;About Me&amp;rdquo; and &amp;ldquo;Update Logs&amp;rdquo; pages. 2022.09.30 Purchase personal domain on Namesilo, and resolve to Github Pages. (But DNS check is always failing??) </description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>http://eecutie.cc/about/</link>
+      <link>https://eecutie.cc/about/</link>
       <pubDate>Thu, 29 Sep 2022 14:57:38 +0800</pubDate>
       
-      <guid>http://eecutie.cc/about/</guid>
+      <guid>https://eecutie.cc/about/</guid>
       <description>Hey, there.🥳 My name is Yungang Zhu. You can also call me Leo. This article was written on September 29th, 2022. At that time, I have graduated from SCAU for just one year, and worked as a web crawler engineer in GuangZhou, Guangdong Province.
 Actually, I have come up with this idea of writing my personal blog very long before, and at first, I want this blog to be a knowledge base to record what I learned in work and study.</description>
     </item>
