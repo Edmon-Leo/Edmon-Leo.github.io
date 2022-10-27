@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Leo Notes</title>
-    <link>https://eecutie.cc/</link>
-    <description>Recent content on Leo Notes</description>
+    <title>Posts on Leo Notes</title>
+    <link>https://eecutie.cc/posts/</link>
+    <description>Recent content in Posts on Leo Notes</description>
     <image>
       <url>https://s2.loli.net/2022/09/28/xdpTDYqf4NBW3RC.png</url>
       <link>https://s2.loli.net/2022/09/28/xdpTDYqf4NBW3RC.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Oct 2022 15:57:31 +0800</lastBuildDate><atom:link href="https://eecutie.cc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Oct 2022 15:57:31 +0800</lastBuildDate><atom:link href="https://eecutie.cc/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>记: 我被赋黄码了</title>
       <link>https://eecutie.cc/posts/%E8%AE%B0-%E6%88%91%E8%A2%AB%E8%B5%8B%E9%BB%84%E7%A0%81%E4%BA%86/</link>
@@ -26,26 +26,6 @@
 做完核酸回家路上，我就一直在想：黄码明明是为了减少相关区域人员流动和聚集，但这样安排黄码检测点真的能起到减少聚集的作用吗？万一昨晚排队的人群里有一个红码，那昨晚百十来号人全都得被隔离（小红书上已经看到过不少这种案例了，是真的冤死），这不是起了反作用吗？另外，有的人明明在家里哪都没去，离封控区也搭不上边，真就“人在家中坐，黄码天上来”？说是为了尽量排除区域范围内有其他密接或次密接的可能，但是这样对个人来说真的就合理吗？而且这样的例子不止一个，是很多。
 从疫情爆发到现在已经两年了，我一个中国人确确实实认同国家的防控策略，也非常认可国家的防疫成果。但疫情防控当中暴露出来的各种“小问题”真的有被重视过吗？之前上海疫情多少人连饭都吃不上，现在西宁疫情也是同样的情况，百姓的声音再大，部分基层管理机构甚至部分基层政府权当听不见。网络上能查到的几乎是清一色的正面新闻，从来不会报道哪里的民众有什么困难，也不会报道因为防疫工作的失职或过激导致的严重后果，我也只是在一些公众号、一些博主那里听到看到了一些处在疫情防控区的，需要帮助的人们的需求和心声。但转念一想：需要帮助的人们不去寻求政府和基层管理机构的帮助，反而转向网络上的大V们请他们帮忙发声，这不是一种悲哀吗？部分防疫机构和相关工作人员真的不需要反思一下自己的行为和态度吗？疫情防控本身就是一个需要集体参与、集体配合的过程，但集体也是由个体组成的，如果连个体的最基本的生活需求都保证不了，还要求他们配合防疫配合工作岂不是有些强人所难？
 因被赋黄码，排队人挤人测核酸，有如上感受和想法，今日记录下，仅此而已。</description>
-    </item>
-    
-    <item>
-      <title>Update Logs</title>
-      <link>https://eecutie.cc/update/</link>
-      <pubDate>Thu, 29 Sep 2022 15:00:45 +0800</pubDate>
-      
-      <guid>https://eecutie.cc/update/</guid>
-      <description> All updates will be recorded here, sorted by timeline.
-2022.09.29 Start using Hugo and complete the configration in local machine. Publish &amp;ldquo;About Me&amp;rdquo; and &amp;ldquo;Update Logs&amp;rdquo; pages. 2022.09.30 Purchase personal domain on Namesilo, and resolve to Github Pages. (But DNS check is always failing??) </description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://eecutie.cc/about/</link>
-      <pubDate>Thu, 29 Sep 2022 14:57:38 +0800</pubDate>
-      
-      <guid>https://eecutie.cc/about/</guid>
-      <description>Hey, there.🥳 My name is Yungang Zhu. You can also call me Leo. This article was written on September 29th, 2022. At that time, I have graduated from SCAU for just one year, and worked as a web crawler engineer in GuangZhou, Guangdong Province.
-Actually, I have come up with this idea of writing my personal blog very long before, and at first, I want this blog to be a knowledge base to record what I learned in work and study.</description>
     </item>
     
   </channel>
