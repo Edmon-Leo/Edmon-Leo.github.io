@@ -8,7 +8,13 @@
     <loc>https://eecutie.cc/posts/</loc>
     <lastmod>2024-06-22T16:14:07+08:00</lastmod>
   </url><url>
+    <loc>https://eecutie.cc/tags/</loc>
+    <lastmod>2024-06-22T16:14:07+08:00</lastmod>
+  </url><url>
     <loc>https://eecutie.cc/posts/%E7%AA%81%E7%84%B6%E6%83%B3%E8%B5%B7%E6%9D%A5%E6%88%91%E8%BF%98%E6%9C%89%E4%B8%AA%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2024-06-22T16:14:07+08:00</lastmod>
+  </url><url>
+    <loc>https://eecutie.cc/tags/%E9%9A%8F%E8%AE%B0/</loc>
     <lastmod>2024-06-22T16:14:07+08:00</lastmod>
   </url><url>
     <loc>https://eecutie.cc/posts/%E7%AE%80%E5%8D%95%E7%BB%99-2022-%E7%BB%93%E4%B8%AA%E5%B0%BE%E5%90%A7/</loc>
@@ -27,7 +33,5 @@
     <lastmod>2022-09-29T14:57:38+08:00</lastmod>
   </url><url>
     <loc>https://eecutie.cc/categories/</loc>
-  </url><url>
-    <loc>https://eecutie.cc/tags/</loc>
   </url>
 </urlset>

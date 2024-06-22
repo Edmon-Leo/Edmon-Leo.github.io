@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Leo Notes</title>
-    <link>https://eecutie.cc/posts/</link>
-    <description>Recent content in Posts on Leo Notes</description>
+    <title>随记 on Leo Notes</title>
+    <link>https://eecutie.cc/tags/%E9%9A%8F%E8%AE%B0/</link>
+    <description>Recent content in 随记 on Leo Notes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Jun 2024 16:14:07 +0800</lastBuildDate>
-    <atom:link href="https://eecutie.cc/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eecutie.cc/tags/%E9%9A%8F%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>突然想起来我还有个博客</title>
       <link>https://eecutie.cc/posts/%E7%AA%81%E7%84%B6%E6%83%B3%E8%B5%B7%E6%9D%A5%E6%88%91%E8%BF%98%E6%9C%89%E4%B8%AA%E5%8D%9A%E5%AE%A2/</link>
